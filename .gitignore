@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+vector_store/
+data/
+.venv/
+env/
+venv/
+.streamlit/
