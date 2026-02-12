@@ -54,6 +54,8 @@ Start the Streamlit application:
 ```bash
 streamlit run app.py
 ```
+<img width="1485" height="977" alt="image" src="https://github.com/user-attachments/assets/45b11dfc-b7c5-4535-9e8d-98a6ab68cb55" />
+
 
 ## 📂 Project Structure
 
